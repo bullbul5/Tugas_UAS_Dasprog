@@ -7,8 +7,8 @@
 
 ## Deskripsi Umum
 <br>Array 2 dimensi adalah sebuatan array yang memiliki lebih dari satu bentuk index array. Jika pada array 1 dimensi hanya terdiri dari 1 baris ataupun kolom, di array 2 dimensi mempunyai lebih dari satu bentuk baris maupun kolom. Pada artikel kali ini, saya akan menampilkan suatu code program mengenai array 2 dimensi dimana program tersebut menampilkan hasil transpose dari suatu matriks.
-Berikut adalan code programnya:
-<br>Contoh Array 2 dimensi
+Berikut adalah code programnya:
+<br>Contoh Array 2 dimensi yaitu:
 ## Source Code
  <br> #include <iostream>
  <br> using namespace std;
